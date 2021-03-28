@@ -38,7 +38,7 @@ minima:
     linkedin: debsuvra
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
