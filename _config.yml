@@ -28,7 +28,7 @@ twitter_username: debsuvra
 github_username: debsuvra
 
 # Build settings
-theme: Cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
