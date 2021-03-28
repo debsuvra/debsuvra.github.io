@@ -29,12 +29,12 @@
 title: Debsuvra's GitHub!
 description: A small collection of codes that I wrote
 
-show_downloads: false
-theme: jekyll-theme-cayman
+#show_downloads: false
+#theme: jekyll-theme-cayman
 
 
 # Build settings
-#remote_theme: pages-themes/cayman
+theme: minima
 plugins:
   - jekyll-feed
 
