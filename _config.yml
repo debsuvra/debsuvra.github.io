@@ -18,25 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Debsuvra's GitHub!
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Hello, there! Welcome to Debsuvra's GitHub. It's not much to look at for now, hoping to set it up in near future.
-#baseurl: "" #the subpath of your site, e.g. /blog
-#url: "https://www.debsuvra.com" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: debsuvra
-#github_username: debsuvra
+title : Debsuvra's GitHub!
+author:
+  name: Debsuvra Ghosh
 
-title: Debsuvra's GitHub!
-description: A small collection of codes that I wrote
+description: A small collection of codes by Debsuvra Ghosh
 
-#show_downloads: false
-#theme: jekyll-theme-cayman
+show_excerpts: false
+
+minima:
+
+  social_links:
+    twitter: debsuvra
+    github: debsuvra
 
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
