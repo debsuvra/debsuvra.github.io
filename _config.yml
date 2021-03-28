@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Debsuvra's GitHub!
+#title: Debsuvra's GitHub!
 #description: >- # this means to ignore newlines until "baseurl:"
   Hello, there! Welcome to Debsuvra's GitHub. It's not much to look at for now, hoping to set it up in near future.
 #baseurl: "" #the subpath of your site, e.g. /blog
