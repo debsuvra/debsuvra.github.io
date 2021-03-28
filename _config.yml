@@ -22,13 +22,15 @@ title: Debsuvra's GitHub!
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, there! Welcome to Debsuvra's GitHub. It's not much to look at for now, hoping to set it up in near future.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" #the subpath of your site, e.g. /blog
+url: "https://www.debsuvra.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: debsuvra
 github_username: debsuvra
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
