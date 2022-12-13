@@ -1,8 +1,0 @@
----
-layout: post
-title: "Woo hoo, got Jekyll set up!"
-date: 2021-03-28 18:17:00 +0530
-categories: updates
----
-
-Glad that I finally setup Jekyll for the github.io page. It was easier than I expected. Let's do some more with it in future.
