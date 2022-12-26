@@ -29,10 +29,13 @@ github_username:  debsuvra
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
 incremental: true
+
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
